@@ -89,4 +89,4 @@ readTime: "5分钟阅读"
 
 ## 浏览器兼容性
 
-![label for兼容性](../../imgs/label-for-support.png)
+![label for兼容性](/imgs/label-for-support.png)
